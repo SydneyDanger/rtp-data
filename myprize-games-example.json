@@ -1,0 +1,322 @@
+{
+    "page": 1,
+    "page_size": 13,
+    "results": [
+        {
+            "id": "63082f82-90e8-495b-955d-081647a08076",
+            "provider": "hacksaw",
+            "studio": "hacksaw_gaming",
+            "name": "Le Zeus",
+            "url_path": "le-zeus",
+            "is_social_wager_enabled": true,
+            "reference_id": "1831",
+            "tags": [
+                {
+                    "code": "hacksaw_gaming",
+                    "display_name": "Hacksaw Gaming"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "9d0c5302-249a-446d-9100-c46a82a77170",
+            "provider": "hacksaw",
+            "studio": "hacksaw_gaming",
+            "name": "Tiger Legends",
+            "url_path": "tiger-legends",
+            "is_social_wager_enabled": true,
+            "reference_id": "1745",
+            "tags": [
+                {
+                    "code": "hacksaw_gaming",
+                    "display_name": "Hacksaw Gaming"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "a98bdf0a-fa52-408d-94a2-f2cedad7aefd",
+            "provider": "booming",
+            "studio": "booming",
+            "name": "Super Duper",
+            "url_path": "super-duper",
+            "is_social_wager_enabled": true,
+            "reference_id": "63205f57313c900016e560dd",
+            "tags": [
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "booming",
+                    "display_name": "Booming Games"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "311cefc3-7dc2-42f7-ac1d-7f21a62ae74b",
+            "provider": "bgaming",
+            "studio": "bgaming",
+            "name": "Olympus TRUEWAYS",
+            "url_path": "olympus-trueways",
+            "is_social_wager_enabled": true,
+            "reference_id": "OlympusTrueways",
+            "tags": [
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "bgaming",
+                    "display_name": "BGaming"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "4b78f3b8-d8ef-4b70-928e-6a1d36edeca3",
+            "provider": "relax",
+            "studio": "relax_gaming",
+            "name": "Aura God",
+            "url_path": "aura-god",
+            "is_social_wager_enabled": true,
+            "reference_id": "auragod_94",
+            "tags": [
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "relax_gaming",
+                    "display_name": "Relax Gaming"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "60deea3f-bd70-4170-84a7-f242dcd3e479",
+            "provider": "hacksaw",
+            "studio": "backseat_gaming",
+            "name": "Super Twins",
+            "url_path": "super-twins",
+            "is_social_wager_enabled": true,
+            "reference_id": "1652",
+            "tags": [
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "backseat_gaming",
+                    "display_name": "Backseat Gaming"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "6e3307c1-b65d-4cf3-a0e4-e2f2f0d11f43",
+            "provider": "hacksaw",
+            "studio": "hacksaw_gaming",
+            "name": "Invictus",
+            "url_path": "invictus",
+            "is_social_wager_enabled": true,
+            "reference_id": "1792",
+            "tags": [
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "hacksaw_gaming",
+                    "display_name": "Hacksaw Gaming"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "424b35d3-5b38-4652-92d4-d18feddc0537",
+            "provider": "relax",
+            "studio": "relax_gaming",
+            "name": "Winter Champions",
+            "url_path": "winter-champions",
+            "is_social_wager_enabled": true,
+            "reference_id": "winterchampions_94",
+            "tags": [
+                {
+                    "code": "holiday",
+                    "display_name": "Holiday"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "relax_gaming",
+                    "display_name": "Relax Gaming"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "8ebf0ea5-61d6-48c0-83c0-fc7f6415bbdf",
+            "provider": "hacksaw",
+            "studio": "hacksaw_gaming",
+            "name": "Shaolin Master",
+            "url_path": "shaolin-master",
+            "is_social_wager_enabled": true,
+            "reference_id": "1555",
+            "tags": [
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "hacksaw_gaming",
+                    "display_name": "Hacksaw Gaming"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "07813818-c034-45e4-898d-2a911d99c195",
+            "provider": "relax",
+            "studio": "slotmill",
+            "name": "Super Fruit Smash",
+            "url_path": "super-fruit-smash",
+            "is_social_wager_enabled": true,
+            "reference_id": "rlx.sml.sml.19023",
+            "tags": [
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "slotmill",
+                    "display_name": "Slotmill"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "56e7d12f-982d-4e68-8a86-89224a408889",
+            "provider": "evolution",
+            "studio": "red_tiger",
+            "name": "777 Super Strike",
+            "url_path": "777-super-strike",
+            "is_social_wager_enabled": true,
+            "reference_id": "777superstrike00",
+            "tags": [
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "red_tiger",
+                    "display_name": "Red Tiger"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "609fd169-2ccc-4b03-929c-a67d52ae302c",
+            "provider": "evolution",
+            "studio": "nolimit_city",
+            "name": "Bushido Ways xNudge",
+            "url_path": "bushido-ways-xnudge",
+            "is_social_wager_enabled": true,
+            "reference_id": "bushidowaysdx100",
+            "tags": [
+                {
+                    "code": "nolimit_city",
+                    "display_name": "Nolimit City"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                }
+            ],
+            "is_allowed_jx": true
+        },
+        {
+            "id": "e9b5f720-1d55-4538-87c6-686032d395c8",
+            "provider": "evolution",
+            "studio": "red_tiger",
+            "name": "Gods of Troy MegaWays",
+            "url_path": "gods-of-troy-megaways",
+            "is_social_wager_enabled": true,
+            "reference_id": "godsoftroymegawa",
+            "tags": [
+                {
+                    "code": "megaways",
+                    "display_name": "Megaways"
+                },
+                {
+                    "code": "slots",
+                    "display_name": "Slots"
+                },
+                {
+                    "code": "red_tiger",
+                    "display_name": "Red Tiger"
+                },
+                {
+                    "code": "bonus_buys",
+                    "display_name": "Bonus Buys"
+                }
+            ],
+            "is_allowed_jx": true
+        }
+    ]
+}

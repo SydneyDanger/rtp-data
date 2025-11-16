@@ -1,4 +1,4 @@
-game,publisher,min_rtp,max_rtp,default_rtp
+game,publisher,min_rtp,max_rtp,myprize
 Blackjack Single Deck,Connective Games,99.5,99.5,
 Book of 99,Relax Gaming,99.0,99.0,
 Thrones of Persia,Tom Horn Gaming,98.8,98.8,
@@ -576,7 +576,7 @@ Mega Fortune Dreams,Net Entertainment,96.4,96.4,
 Money Train 2,Relax Gaming,96.4,96.4,
 Phantom Cash,Microgaming,96.4,96.4,
 Pirate from the East,Net Entertainment,96.4,96.4,
-Plunderland,Relax Gaming,96.4,96.4,
+Plunderland,Relax Gaming,96.4,96.4,98.3
 Poltava,Elk Studios,96.4,96.4,
 PopRocks,Yggdrasil Gaming,96.4,96.4,
 Queen of the Jungle,Microgaming,96.4,96.4,
